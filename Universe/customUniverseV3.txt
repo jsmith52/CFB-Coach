@@ -69,7 +69,7 @@ Auburn, AUB, SEC, 76, BAMA, 4
 Florida, FLOR, SEC, 65, UGA, 3
 Georgia, UGA, SEC, 80, FLOR, 4
 Kentucky, UK, SEC, 60, SC, 2
-LSU, LSU, SEC, 75, ARK, 4
+LSU, LSU, SEC, 75, BAMA, 4
 Ole Miss, MISS, SEC, 54, MSST, 4
 Mississippi State, MSST, SEC, 73, MISS, 4
 South Carolina, SC, SEC, 60, UK, 4
